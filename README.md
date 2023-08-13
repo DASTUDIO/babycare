@@ -2,7 +2,7 @@
 
 ![1](https://raw.githubusercontent.com/DASTUDIO/babycare/master/img/2.png)
 
-干净简单的DNN文本识别。 [示例](http://babycare.da.studio)
+干净简单的DNN文本识别。 
 
 * 依赖
 
@@ -40,3 +40,4 @@ url?data=yourStrings->{yourStrings, res} # res越接近1越可能是敏感信息
 >网络结构care/dnn/isBad.py 按需修改
 
 
+（图中"da.studio"域名已不是本人在使用，相见txt文件说明）
